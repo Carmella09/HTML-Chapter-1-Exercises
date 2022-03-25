@@ -1,4 +1,4 @@
-# HTML-Chapter-1-Exercises
+# HTML Chapter 1 Exercises
 
 ## Assessment Exercises
 
