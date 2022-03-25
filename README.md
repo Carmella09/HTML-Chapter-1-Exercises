@@ -1,4 +1,4 @@
-# HTML-Chapter-1-Activty-1
+# HTML-Chapter-1
 
 
     <!DOCTYPE html>
