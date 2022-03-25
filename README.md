@@ -152,7 +152,7 @@ style.css
 
 ## Bonus Assessment Exercises
 
-## HTML and CSS Resource
+### HTML and CSS Resource
 
 
 
