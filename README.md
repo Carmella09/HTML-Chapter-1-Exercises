@@ -1,4 +1,4 @@
-# HTML-Chapter-1
+# HTML-Chapter-1-Exercises
 
 
     <!DOCTYPE html>
