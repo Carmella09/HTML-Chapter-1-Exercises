@@ -8,6 +8,8 @@
 
 ### Fix Me
 
+### FixMe.html
+
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -33,7 +35,7 @@
     </body>
     </html>
 
-css
+### fixme.css
 
             h1 {
                 font-size: 3rem;
@@ -62,6 +64,8 @@ css
         
 
 ### Replace Me
+
+### ReplaceMe.html
 
     <html lang="en">
     <head>
@@ -126,7 +130,7 @@ css
   </body>
   </html>
 
-style.css
+### style.css
 
     body {
         background: #eeeeee;
